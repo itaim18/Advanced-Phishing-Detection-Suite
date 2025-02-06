@@ -13,9 +13,7 @@ Phishing attacks remain one of the most significant cybersecurity challenges, tr
 - [Usage](#usage)
 - [Results](#results)
 - [Presentation](#presentation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ---
 
@@ -111,6 +109,6 @@ Initial experiments have shown promising results, with the suite achieving high 
 
 For an in-depth overview and demonstration of the system, please view the presentation slides here:
 
-[Advanced Phishing Detection Suite Presentation](https://jocular-phoenix-72c9fe.netlify.app/) cite65
+[Advanced Phishing Detection Suite Presentation](https://jocular-phoenix-72c9fe.netlify.app/)
 
 
